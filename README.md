@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (Reactni create-react-app bilan boshlash)
+
+<span style="color:blue">Iltimos mehr bilan o'qing!</span>.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
